@@ -1,5 +1,5 @@
 sources:
-    - MyFont.glyphs
-familyName: My Font
+    -Xdareg(darage)v1(RL).otf
+familyName: Darage
 outputDir: "../fonts"
 
